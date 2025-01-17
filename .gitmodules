@@ -1,0 +1,3 @@
+[submodule "sgnup"]
+	path = sgnup
+	url = ./sgnup
